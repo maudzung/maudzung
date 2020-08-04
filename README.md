@@ -3,9 +3,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=maudzung&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
-### Hi there 👋
+### Welcome to Nguyen Mau Dung's GitHub 👋
 
-Nguyen Mau Dung is a Machine Learning Engineer who loves developing AI-based real-time and accurate applications. He has equipped a strong background in machine learning, deep learning algorithms, programming skills, especially mathematics and physics. He graduated with a Masters' degree in 2020 from the [Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/kist_eng/main/) (Ranking as the [6th innovative research institution in the world by Reuter](https://eng.kist.re.kr/kist_eng/?state=view&sub_num=417&searchKind=&searchWord=&v_pagesize=10&v_page=1&idx=1393&seqNo=3&reportMediaTypeCode=#:~:text=Korea%20Institute%20of%20Science%20and,on%20Tuesday%20(March%208).)), major in HCI & Robotics.
+
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
